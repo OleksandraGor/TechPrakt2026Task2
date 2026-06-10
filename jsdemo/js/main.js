@@ -37,7 +37,11 @@ let arr = [
         "name": "Serhii",
         "age": 19,
         "title": "description"
-    },
+    },{
+        "name": "Oleksandra",
+        "age": 19,
+        "title": "ВТ-24-1"
+    }
 ];
 
 class UserPanels {
