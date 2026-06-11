@@ -13,18 +13,18 @@ body {
 header {
   background: #422F28;
   color: #CDB89D;
-  padding: 1.5rem 2rem;
+  padding: 1.7rem 2.4rem;
   text-align: center;
 }
 
 header h1 {
-  font-size: 28px;
+  font-size: 30px;
   font-weight: bold;
   letter-spacing: 1px;
 }
 
 header p {
-  font-size: 13px;
+  font-size: 15px;
   opacity: 0.75;
   margin-top: 4px;
 }
@@ -40,7 +40,7 @@ nav {
 nav a {
   color: #CDB89D;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 nav a:hover {
@@ -59,7 +59,7 @@ nav a:hover {
 }
 
 .hero p {
-  margin-top: 8px;
+  margin-top: 10px;
   font-size: 15px;
   opacity: 0.85;
 }
@@ -122,7 +122,7 @@ nav a:hover {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  gap: 10px;
+  gap: 15px;
 }
 
 .featured-body h2 {
@@ -132,7 +132,7 @@ nav a:hover {
 }
 
 .featured-body p {
-  font-size: 14px;
+  font-size: 15px;
   color: #5E2611;
   line-height: 1.7;
 }
@@ -156,19 +156,19 @@ nav a:hover {
   font-size: 15px;
   color: #422F28;
   margin-bottom: 6px;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 .card p {
-  font-size: 13px;
+  font-size: 15px;
   color: #5E2611;
   line-height: 1.6;
 }
 
 .meta {
-  font-size: 12px !important;
+  font-size: 15px !important;
   color: #6A6F4C !important;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 footer {
@@ -176,6 +176,6 @@ footer {
   color: #CDB89D;
   text-align: center;
   padding: 1.5rem;
-  font-size: 13px;
+  font-size: 15px;
   margin-top: 2rem;
 }
